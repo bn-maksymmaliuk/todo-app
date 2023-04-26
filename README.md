@@ -19,7 +19,7 @@ The API used in this app is a simple Node.js and Express.js server with a MongoD
 
 - GET /api/todos - Returns a list of all Todo items
 - POST /api/todos - Adds a new Todo item
-- PUT /api/todos/:id - Updates a Todo item
+- PATCH /api/todos/:id - Updates a Todo item
 - DELETE /api/todos/:id - Deletes a Todo item
 
 ## License
