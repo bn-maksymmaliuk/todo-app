@@ -3,7 +3,7 @@
 This is a simple Todo App built with React that interacts with an API to store and retrieve Todo items.
 The API used in this app is a simple Node.js and Express.js server with a MongoDB database.
 
-> Here [DEMO](https://bn-maksymmaliuk.github.io/react_todo-app-with-api/) of application
+> Here [DEMO](https://bn-maksymmaliuk.github.io/react-todo-app-with-api/) of application
 
 ## Features
 This app allows you to:
